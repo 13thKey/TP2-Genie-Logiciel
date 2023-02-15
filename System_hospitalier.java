@@ -1,4 +1,4 @@
-package tp_git;
+ package tp_git;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -35,7 +35,7 @@ public class System_hospitalier {
 	
 	private String analyserRequete(Requête requête) {
 		// Analyser la requête
-		//La méthode permet de signaler à l'utilisateur que la requête est analysée en affichant "requête analysée"
+		//La méthode permet de signaler à l'utilisateur que la requête est analysée en affichant "requête analysée" 
 		return "requête analysée";
 	}
 	
